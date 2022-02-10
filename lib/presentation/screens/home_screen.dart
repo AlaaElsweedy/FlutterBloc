@@ -85,20 +85,22 @@ class HomeScreen extends StatelessWidget {
   }
 
   Widget buildNoInternetWidget() {
-    return Center(
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          const SizedBox(height: 20),
-          const Text(
-            'Can\'t connect .. check internet',
-            style: TextStyle(
-              fontSize: 22,
-              color: myGrey,
+    return Scaffold(
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const SizedBox(height: 20),
+            const Text(
+              'Can\'t connect .. check internet',
+              style: TextStyle(
+                fontSize: 22,
+                color: myGrey,
+              ),
             ),
-          ),
-          Image.asset('assets/images/no_internet.png'),
-        ],
+            Image.asset('assets/images/no_internet.png'),
+          ],
+        ),
       ),
     );
   }
