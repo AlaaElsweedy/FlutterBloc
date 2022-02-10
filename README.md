@@ -1,16 +1,8 @@
-# breaking_bad_bloc_app
+# Breaking Bad 
 
-A new Flutter project.
+A new Flutter project using Bloc with little animation.
 
-## Getting Started
+## Free Api: https://breakingbadapi.com/documentation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screen Shots:
+<img src="screenshots/image1.png" width="300" height="650"> <img src="screenshots/image2.png" width="300" height="650"> <img src="screenshots/image3.png" width="300" height="650"> <img src="screenshots/image5.png" width="300" height="650"> <img src="screenshots/image4.png" width="300" height="650">
