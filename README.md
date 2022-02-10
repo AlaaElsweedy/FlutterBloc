@@ -5,4 +5,11 @@ A new Flutter project using Bloc with little animation.
 ## Free Api: https://breakingbadapi.com/documentation
 
 ### Screen Shots:
-<img src="screenshots/image1.png" width="300" height="650"> <img src="screenshots/image2.png" width="300" height="650"> <img src="screenshots/image3.png" width="300" height="650"> <img src="screenshots/image5.png" width="300" height="650"> <img src="screenshots/image4.png" width="300" height="650">
+<img src="screen_shots/image1.png" width="300" height="650"> <img src="screen_shots/image2.png" width="300" height="650">
+<img src="screen_shots/image3.png" width="300" height="650"> <img src="screen_shots/image4.jpg" width="300" height="650">
+
+# Featers:
+
+Using Modular Bloc Architecture, Custom widgets and Clean reusable code.
+Using Bloc(Cubit) as a state management.
+Using little Animation.
